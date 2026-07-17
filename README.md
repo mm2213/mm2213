@@ -1,9 +1,5 @@
 ## Hi there 👋 it's Mihir Mehta(MM)
 
-**mm2213/mm2213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Senior Software Engineer at [Bristlecone](https://www.bristlecone.com/)(client- Google). Previously worked at Moveinsync, Adobe and Newgen.
 - 🌱 Recently professional worked on a) RBAC authorization system, b) design and and orchestrate multi-agent AI system. Project wise working on a) AI hiring platform, b) Distributed tracing system.
 - 👯 Collaborating and helping peers on [Codementor](http://codementor.io/).
