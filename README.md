@@ -1,6 +1,5 @@
 ## Hi there 👋 it's Mihir Mehta(MM)
 
-<!--
 **mm2213/mm2213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,5 +10,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about programming, web dev, dsa, system design, entrepreneurship, freelancing, leadership, time management, personal development, sports, spirituality.
 - ⚡ Fun fact: might have slightly exaggerated.
 - 📫 How to reach me: [Mail](https://contact.mihir2213@gmail.com/) , [Codementor](https://www.codementor.io/@contactmihir2213) , [Linkedin](https://www.linkedin.com/in/mihir-mehta-13054b139) , [Topmate](https://topmate.io/mm2213)
-
--->
